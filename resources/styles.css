@@ -17,12 +17,12 @@ p {
 }
 
 h1 {
-    background: #1e3a5f;
-    background-image: -webkit-linear-gradient(top, #1e3a5f, #0d223d);
-    background-image: -moz-linear-gradient(top, #1e3a5f, #0d223d);
-    background-image: -ms-linear-gradient(top, #1e3a5f, #0d223d);
-    background-image: -o-linear-gradient(top, #1e3a5f, #0d223d);
-    background-image: linear-gradient(to bottom, #1e3a5f, #0d223d);
+    background: #5f551e;
+    background-image: -webkit-linear-gradient(top, #5f551e, #3d3c0d);
+    background-image: -moz-linear-gradient(top, #5f551e, #3d3c0d);
+    background-image: -ms-linear-gradient(top, #5f551e, #3d3c0d);
+    background-image: -o-linear-gradient(top, #5f551e, #3d3c0d);
+    background-image: linear-gradient(to bottom, #5f551e, #3d3c0d);
     -webkit-border-radius: 3;
     -moz-border-radius: 3;
     border-radius: 3px;
@@ -37,10 +37,10 @@ h1 {
     max-width: 32%;
     margin-left: auto;
     margin-right: auto;
-    border-top: solid #2a5792 1px;
-    border-right: solid #1e3a5f 1px;
-    border-bottom: solid #0d223d 1px;
-    border-left: solid #1e3a5f 1px;
+    border-top: solid #926e2a 1px;
+    border-right: solid #5f4b1e 1px;
+    border-bottom: solid #3d2e0d 1px;
+    border-left: solid #5f4b1e 1px;
     text-decoration: none;
     text-align: center;
 }
